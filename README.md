@@ -1,1 +1,1 @@
-# GithubAcitonAutoUpdate
+# GithubAcitonAuto
